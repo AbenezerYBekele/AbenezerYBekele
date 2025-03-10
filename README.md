@@ -3,10 +3,10 @@
 ## 👋💻Abenezer Y Bekele | Software Engineer & Data Analyst
 🎓 Recent Computer Science Graduate from University of Wisconsin | 🚀 Aspiring Frontend/Mobile Developer  | 📊 Data Enthusiast
 
-🔹 Passionate about building intuitive and engaging user experiences
-🔹 Proficient in React, React Native, JavaScript, TypeScript
-🔹 Experienced in UI development, API integration, and performance optimization
-🔹 Also looking for Data Analyst roles, skilled in SQL, Python/R, Excel/Google Sheets, Data Visualization, Statistics & Mathematics, ETL (Extract, Transform, Load), and working with Hadoop, Spark, or cloud platforms like AWS/GCP
+🔹 Passionate about building intuitive and engaging user experiences <br /> 
+🔹 Proficient in React, React Native, JavaScript, TypeScript <br /> 
+🔹 Experienced in UI development, API integration, and performance optimization <br /> 
+🔹 Also looking for Data Analyst roles, skilled in SQL, Python/R, Excel/Google Sheets, Data Visualization, Statistics & Mathematics, ETL (Extract, Transform, Load), and working with Hadoop, Spark, or cloud platforms like AWS/GCP <br /> 
 
 🔧 Tech Stack
 Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS
