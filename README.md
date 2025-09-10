@@ -39,7 +39,10 @@ Check out my pinned repositories to see my latest work in React, mobile app deve
   🔹A mobile recipe discovery application for iOS and Android built with Expo (React Native). This app allows users to search for recipes, browse by category, view detailed instructions, and save their favorite meals for later use.<br /> 
   
 [**Data Analyst | Python • R • SQL • Excel**](https://github.com/AbenezerYBekele/Data-Analyst?tab=readme-ov-file) <br /> 
-  🔹Analytical and detail-oriented data professional skilled in transforming complex datasets into actionable insights. Experienced in the full data analysis lifecycle, including data wrangling, visualization, statistical analysis, and dashboard creation. Proficient in Python, R, SQL, and Excel with hands-on expertise in libraries (Pandas, Scikit-learn, Tidyverse, Matplotlib, Plotly), database management, and BI tools. Strong foundation in computer science with multiple IBM certifications in Data Science, Analysis, and Visualization. Portfolio highlights include healthcare analytics, financial market analysis, geospatial clustering, and business intelligence dashboards.
+  🔹Analytical and detail-oriented data professional skilled in transforming complex datasets into actionable insights. Experienced in the full data analysis lifecycle, including data wrangling, visualization, statistical analysis,       and dashboard creation. Proficient in Python, R, SQL, and Excel with hands-on expertise in libraries (Pandas, Scikit-learn, Tidyverse, Matplotlib, Plotly), database management, and BI tools. Strong foundation in computer science        with multiple IBM certifications in Data Science, Analysis, and Visualization. Portfolio highlights include healthcare analytics, financial market analysis, geospatial clustering, and business intelligence dashboards.
+<br />
+[**REST API**](https://github.com/AbenezerYBekele/RESTAPI) <br />
+🔹Developed a web-based Trivia Game using a public API for dynamic question fetching, enhancing user interactivity. Additionally built a standalone REST API with Node.js and Express to demonstrate full CRUD operations, showcasing       back-end development and API design skills.
 <!--
 **AbenezerYBekele/AbenezerYBekele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
