@@ -1,8 +1,13 @@
 
 
 ## 👋💻Abenezer Y Bekele | 
-🎓 Recent Computer Science Graduate from University of Wisconsin |IBM Data Science Professional Certificate  | 📊 Data Enthusiast
-
+🎓 Recent Computer Science Graduate from University of Wisconsin <br /> 
+***Certificate***<br /> 
+*    **IBM Data Analysis with python**
+*   **IBM Data Visualization with python**
+*   **IBM Data Analysis Fundamentals Certificate**
+*   **IBM Databases and SQL for Data Science with Python**
+  
 <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Data+Analyst;Business+Intelligence;Data+Engineer" alt="Typing SVG" />
 </div>
@@ -22,14 +27,17 @@
 Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS <br /> 
 Backend: Node.js, Express, Firebase <br /> 
 Data & Analytics: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R, Power BI, Tableau <br /> 
-Tools: Git, Expo, VS Code, IntelliJ IDEA <br /> 
+Tools: Git,docker , Expo, VS Code, IntelliJ IDEA <br /> 
 Other: Agile, REST APIs, UI/UX principles, ETL, Big Data (Hadoop, Spark, AWS/GCP) <br /> 
 # 📌 Projects<br /> 
 Check out my pinned repositories to see my latest work in React, mobile app development, web applications, and data analysis.<br /> 
 
-# 📫 Let's Connect!<br /> 
-LinkedIn: www.linkedin.com/in/abenezer-bekele/ <br /> 
-Email: AbenezerYBekele@gmail.com <br /> 
+🔹 FinTracker AI Expo (React Native)
+   - FinScan AI is a modern, cross-platform mobile application built with React Native and Expo that simplifies personal finance management. It features a clean user interface, secure authentication, and a powerful AI-driven receipt scanner to automate transaction entry.
+🔹 Recipe Finder App
+   - A mobile recipe discovery application for iOS and Android built with Expo (React Native). This app allows users to search for recipes, browse by category, view detailed instructions, and save their favorite meals for later use.
+🔹 Data Analyst | Python • R • SQL • Excel
+   - Analytical and detail-oriented data professional skilled in transforming complex datasets into actionable insights. Experienced in the full data analysis lifecycle, including data wrangling, visualization, statistical analysis, and dashboard creation. Proficient in Python, R, SQL, and Excel with hands-on expertise in libraries (Pandas, Scikit-learn, Tidyverse, Matplotlib, Plotly), database management, and BI tools. Strong foundation in computer science with multiple IBM certifications in Data Science, Analysis, and Visualization. Portfolio highlights include healthcare analytics, financial market analysis, geospatial clustering, and business intelligence dashboards.
 <!--
 **AbenezerYBekele/AbenezerYBekele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
