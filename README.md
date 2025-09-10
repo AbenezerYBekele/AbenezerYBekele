@@ -2,6 +2,11 @@
 
 ## 👋💻Abenezer Y Bekele | Software Engineer & Data Analyst
 🎓 Recent Computer Science Graduate from University of Wisconsin | 🚀 Aspiring Frontend/Mobile Developer  | 📊 Data Enthusiast
+<p align="center">
+  <a href="www.linkedin.com/in/abenezer-bekele"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://public.tableau.com/app/profile/abenezer.bekele1414"><img src="https://img.shields.io/badge/Tableau-View-005EB8?style=for-the-badge&logo=tableau&logoColor=white"></a>
+  <a href="AbenezerYBekele@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
 🔹 Passionate about building intuitive and engaging user experiences <br /> 
 🔹 Proficient in React, React Native, JavaScript, TypeScript <br /> 
