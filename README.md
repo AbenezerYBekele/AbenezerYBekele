@@ -1,7 +1,12 @@
 
 
-## 👋💻Abenezer Y Bekele | Software Engineer & Data Analyst
-🎓 Recent Computer Science Graduate from University of Wisconsin | 🚀 Aspiring Frontend/Mobile Developer  | 📊 Data Enthusiast
+## 👋💻Abenezer Y Bekele | 
+🎓 Recent Computer Science Graduate from University of Wisconsin |IBM Data Science Professional Certificate  | 📊 Data Enthusiast
+
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Data+Analyst;Business+Intelligence;Data+Engineer" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abenezer-bekele/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://public.tableau.com/app/profile/abenezer.bekele1414"><img src="https://img.shields.io/badge/Tableau-View-005EB8?style=for-the-badge&logo=tableau&logoColor=white"></a>
