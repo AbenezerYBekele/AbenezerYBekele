@@ -1,8 +1,8 @@
 
 
-## 👋💻Abenezer Y Bekele | 
-🎓 Recent Computer Science Graduate from University of Wisconsin <br /> 
-***Certificate***<br /> 
+# 👋💻Abenezer Y Bekele 
+#### 🎓**Computer Science/Information Systems Graduate from University of Wisconsin-River Falls** <br /> 
+## ***Certificate***<br /> 
 *    **IBM Data Analysis with python**
 *   **IBM Data Visualization with python**
 *   **IBM Data Analysis Fundamentals Certificate**
@@ -32,13 +32,13 @@ Other: Agile, REST APIs, UI/UX principles, ETL, Big Data (Hadoop, Spark, AWS/GCP
 # 📌 Projects<br /> 
 Check out my pinned repositories to see my latest work in React, mobile app development, web applications, and data analysis.<br /> 
 
-**FinTracker AI Expo (React Native)** <br /> 
+ [**FinTracker AI Expo (React Native)**](https://github.com/AbenezerYBekele/FinTracker) <br /> 
   🔹FinScan AI is a modern, cross-platform mobile application built with React Native and Expo that simplifies personal finance management. It features a clean user interface, secure authentication, and a powerful AI-driven receipt       scanner to automate transaction entry. <br /> 
   
-**Recipe Finder App** <br /> 
+[**Recipe Book**](https://github.com/AbenezerYBekele/Recipe-Book) <br /> 
   🔹A mobile recipe discovery application for iOS and Android built with Expo (React Native). This app allows users to search for recipes, browse by category, view detailed instructions, and save their favorite meals for later use.<br /> 
   
-**Data Analyst | Python • R • SQL • Excel** <br /> 
+[**Data Analyst | Python • R • SQL • Excel**](https://github.com/AbenezerYBekele/Data-Analyst?tab=readme-ov-file) <br /> 
   🔹Analytical and detail-oriented data professional skilled in transforming complex datasets into actionable insights. Experienced in the full data analysis lifecycle, including data wrangling, visualization, statistical analysis, and dashboard creation. Proficient in Python, R, SQL, and Excel with hands-on expertise in libraries (Pandas, Scikit-learn, Tidyverse, Matplotlib, Plotly), database management, and BI tools. Strong foundation in computer science with multiple IBM certifications in Data Science, Analysis, and Visualization. Portfolio highlights include healthcare analytics, financial market analysis, geospatial clustering, and business intelligence dashboards.
 <!--
 **AbenezerYBekele/AbenezerYBekele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
